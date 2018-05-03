@@ -1,0 +1,4 @@
+*.pyc
+*.hdf5
+Mnist_data/
+*.png

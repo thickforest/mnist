@@ -84,3 +84,11 @@ Test Data Eval:
 源自博客： [Tensorflow MNIST 数据集测试代码入门](https://https://blog.csdn.net/YhL_Leo/article/details/50614444)
 
 如有纰漏，欢迎指正！
+
+======================================
+
+利用mnist数据学习用 keras
+keras_train.py           对应     mnist_softmax.py
+keras_show.py            权重图("MNIST 机器学习入门"文中)
+keras_train_deep.py      对应     mnist_deep.py
+keras_visualization.py   绘制模型图
